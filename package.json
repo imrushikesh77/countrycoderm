@@ -1,0 +1,26 @@
+{
+  "name": "countrycoderm",
+  "version": "1.1.2",
+  "description": "CountryCodeRM is a versatile npm package that allows users to retrieve country names from country codes and vice versa. Whether you're looking to convert India -> +91 or +91 -> India, this package provides a simple and efficient way to handle country code lookups in your applications. With support for numerous countries, it streamlines global communication and helps manage country data effortlessly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "country",
+    "code",
+    "country code",
+    "iso",
+    "mobile code",
+    "telephone",
+    "phone code",
+    "international",
+    "RM",
+    "world",
+    "dialing code",
+    "ISO 3166",
+    "country lookup"
+  ],
+  "author": "imrushikesh77",
+  "license": "ISC"
+}
